@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DoubanNewDemo</string>
+    <string-array name="pager_name">
+        <item>豆瓣</item>
+        <item>发现</item>
+        <item>讨论</item>
+        <item>我的</item>
+    </string-array>
+
+</resources>
